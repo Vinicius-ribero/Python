@@ -31,4 +31,4 @@ for c in range(n, 0, -1):
     
     f *= c
 
-print(f"{f}")
+print(f"{c}")

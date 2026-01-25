@@ -1,7 +1,7 @@
 #Melhore o jogo onde o computador vai "Pensar" em um número entre0 e 10.Só que agora o jogador vai tentar adivinhar até acdertar, mostrando no final quantos palpites foram nescessários para vencer.
 
 
-import random
+import random 
 from random import randint
 
 print("-=" * 10)
